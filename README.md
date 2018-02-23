@@ -8,12 +8,13 @@
 | Date                    | Presenter | Topic                      | Room              |
 | ----------------------- | --------- | -------------------------- | ----------------- |
 | 2/23 (Fri) 10:00-12:00  |           | Hildenbrand (1974), Part I | 第4共同研究室 (10F) |
-|                         |           |                            |                   |
+| 3/2 (Fri) 10:00-        |           |                            |                   |
+| 3/9 (Fri) 10:00-12:00   |           |                            |                   |
 
 ### Papers
 
 * W. Hildenbrand (1974),
-  Core and Equilibria of a Large Economy.
+  Core and Equilibria of a Large Economy, Part I.
 * P. R. Milgrom and R. J. Weber (1985),
   "Distributional Strategies for Games with Incomplete Information,"
   Mathematics of Operations Research 10, 619-632.
