@@ -8,8 +8,8 @@
 | Date                    | Presenter | Topic                      | Room              |
 | ----------------------- | --------- | -------------------------- | ----------------- |
 | 6/19 (Wed) 10:00-12:00  |           | Lecomte (2006), Sec. 1     | 第2共同研究室 (12F) |
-| 6/26 (Wed) 10:00-12:00  |           | Lecomte (2006), Sec. 1-    | ~第4共同研究室 (10F)~ 第1共同研究室 (12F) |
-| 7/3  (Wed) 10:00-12:00  |           |                            | 第4共同研究室 (10F) |
+| 6/26 (Wed) 10:00-12:00  |           | Lecomte (2006), Sec. 1     | 第1共同研究室 (12F) |
+| 7/3  (Wed) 10:00-12:00  |           | Lecomte (2006), Sec. 2-    | 第4共同研究室 (10F) |
 | 7/10 (Wed) 10:00-12:00  |           |                            | 第4共同研究室 (10F) |
 | 7/17 (Wed) 10:00-12:00  |           |                            | 第4共同研究室 (10F) |
 | 7/24 (Wed) 10:00-12:00  |           |                            | 第4共同研究室 (10F) |
@@ -34,7 +34,7 @@
 * W. Hildenbrand (1974),
   Core and Equilibria of a Large Economy, Part I.
 * D. Lecomte (2006),
-  [Weak topologies](https://perso.crans.org/lecomte/Math/WeakTopologies.pdf).
+  [Weak Topologies](https://perso.crans.org/lecomte/Math/WeakTopologies.pdf).
 * P. R. Milgrom and R. J. Weber (1985),
   "Distributional Strategies for Games with Incomplete Information,"
   Mathematics of Operations Research 10, 619-632.
