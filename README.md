@@ -44,3 +44,7 @@
 * M. A. Khan (1985),
   "On Extensions of the Cournot-Nash Theorem,"
   Advances in Equilibrium Theory, 79-106.
+* T. Maruyama (1977),
+   [確率測度の確率測度の＊弱収束  均衡分析への応用のために (一)](https://core.ac.uk/download/pdf/145720102.pdf).
+* T. Maruyama (1978),
+   [確率測度の確率測度の＊弱収束  均衡分析への応用のために (二)](http://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php/AN00234610-19780201-0045.pdf?file_id=78117).
